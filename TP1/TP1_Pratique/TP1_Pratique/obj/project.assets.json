@@ -670,9 +670,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\IFT2821\\TP1\\TP1_Pratique\\TP1_Pratique\\TP1_Pratique.csproj",
-      "projectName": "TP1_Pratique",
-      "projectPath": "C:\\dev\\IFT2821\\TP1\\TP1_Pratique\\TP1_Pratique\\TP1_Pratique.csproj",
+      "projectUniqueName": "C:\\dev\\IFT2821\\TP1\\TP1_Pratique\\TP1_Pratique\\VariableGenerator.csproj",
+      "projectName": "VariableGenerator",
+      "projectPath": "C:\\dev\\IFT2821\\TP1\\TP1_Pratique\\TP1_Pratique\\VariableGenerator.csproj",
       "packagesPath": "C:\\Users\\PGot\\.nuget\\packages\\",
       "outputPath": "C:\\dev\\IFT2821\\TP1\\TP1_Pratique\\TP1_Pratique\\obj\\",
       "projectStyle": "PackageReference",
