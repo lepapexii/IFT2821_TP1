@@ -1,0 +1,11 @@
+C:\dev\IFT2821\TP1\TP1_Pratique\TP1_Pratique\bin\Debug\netcoreapp2.0\TP1_Pratique.deps.json
+C:\dev\IFT2821\TP1\TP1_Pratique\TP1_Pratique\bin\Debug\netcoreapp2.0\TP1_Pratique.runtimeconfig.json
+C:\dev\IFT2821\TP1\TP1_Pratique\TP1_Pratique\bin\Debug\netcoreapp2.0\TP1_Pratique.runtimeconfig.dev.json
+C:\dev\IFT2821\TP1\TP1_Pratique\TP1_Pratique\bin\Debug\netcoreapp2.0\TP1_Pratique.dll
+C:\dev\IFT2821\TP1\TP1_Pratique\TP1_Pratique\bin\Debug\netcoreapp2.0\TP1_Pratique.pdb
+C:\dev\IFT2821\TP1\TP1_Pratique\TP1_Pratique\obj\Debug\netcoreapp2.0\TP1_Pratique.csprojAssemblyReference.cache
+C:\dev\IFT2821\TP1\TP1_Pratique\TP1_Pratique\obj\Debug\netcoreapp2.0\TP1_Pratique.csproj.CoreCompileInputs.cache
+C:\dev\IFT2821\TP1\TP1_Pratique\TP1_Pratique\obj\Debug\netcoreapp2.0\TP1_Pratique.AssemblyInfoInputs.cache
+C:\dev\IFT2821\TP1\TP1_Pratique\TP1_Pratique\obj\Debug\netcoreapp2.0\TP1_Pratique.AssemblyInfo.cs
+C:\dev\IFT2821\TP1\TP1_Pratique\TP1_Pratique\obj\Debug\netcoreapp2.0\TP1_Pratique.dll
+C:\dev\IFT2821\TP1\TP1_Pratique\TP1_Pratique\obj\Debug\netcoreapp2.0\TP1_Pratique.pdb
