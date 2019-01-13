@@ -1,0 +1,9 @@
+Nom des collaborateurs :
+
+- Anthony Pham
+- Claudia Garnier
+- Norman Bloch
+- Philippe Gauthier
+
+
+Cours:  IFT2821
