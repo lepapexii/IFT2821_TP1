@@ -1,0 +1,4 @@
+C:\dev\IFT2821\TP1\TP1_Pratique\TP1_Pratique\obj\Debug\netcoreapp2.0\VariableGenerator.csprojAssemblyReference.cache
+C:\dev\IFT2821\TP1\TP1_Pratique\TP1_Pratique\obj\Debug\netcoreapp2.0\VariableGenerator.csproj.CoreCompileInputs.cache
+C:\dev\IFT2821\TP1\TP1_Pratique\TP1_Pratique\obj\Debug\netcoreapp2.0\VariableGenerator.AssemblyInfoInputs.cache
+C:\dev\IFT2821\TP1\TP1_Pratique\TP1_Pratique\obj\Debug\netcoreapp2.0\VariableGenerator.AssemblyInfo.cs
